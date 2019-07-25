@@ -1,0 +1,14 @@
+SMAP
+accessTable_jsp.java
+JSP
+*S JSP
+*F
++ 0 accessTable.jsp
+accessTable.jsp
+*L
+5,16:46
+20,93:62
+113,2:155,3
+115:161,5
+116,151:166
+*E
